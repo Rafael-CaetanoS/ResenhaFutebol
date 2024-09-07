@@ -1,5 +1,5 @@
 ## Resenha Futebol
-<h2>Descrição
+Descrição
 <p>Este projeto foi criado com o intuito de aprender e aprimorar minhas habilidades de desenvolvimento. O objetivo da aplicação é fornecer uma ferramenta prática para organizar partidas de futebol amador, facilitando a vida dos jogadores.
 
 <hr>
